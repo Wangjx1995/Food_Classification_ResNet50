@@ -7,6 +7,7 @@
    <div align="medium">
      <img src="images/data_sample.png", width="100%"> 
    </div>
+   
 ##　**リポジトリ構成**
 ```bash
 Food_Classification_ResNet50/
