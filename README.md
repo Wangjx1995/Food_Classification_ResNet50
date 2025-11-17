@@ -4,7 +4,9 @@
 
 本プロジェクトは、PyTorch と ResNet50 を用いてコンビニ系の食品画像（おにぎり・パン・弁当・インスタント麺・飲み物）を5クラスに分類する。小規模データセットでも扱いやすいように、
 データ拡張・転移学習（層の凍結）・混合精度学習・評価レポート出力までを一通り対応している。
-
+   <div align="medium">
+     <img src="images/data_sample.png", width="100%"> 
+   </div>
 ##　**リポジトリ構成**
 ```bash
 Food_Classification_ResNet50/
